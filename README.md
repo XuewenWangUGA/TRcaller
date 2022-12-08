@@ -1,2 +1,4 @@
 # TRcaller_paper
-The scripts and settings for TRcaller_paper
+The scripts and setting files for TRcaller paper
+
+
