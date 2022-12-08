@@ -1,0 +1,5 @@
+Chrom	ChromStart	ChromEnd	Name	Left_offset	Right_offset	Basic_motif_period	Length_in_reference	Motif	Ref_allele	Inner_offset	Min_stutter_threshold
+4	3076604	3076694	HTT	2	2	3	90	[CAG]n	30	0	0.0
+9	27573521	27573545	C9orf72	5	5	6	24	[GGGGCC]n	4	0	0.0
+X	146993569	146993629	FMR1	2	2	3	60	[CGG]n	20	0	0.0
+22	46191235	46191305	ATXN10	4	4	5	70	[ATTGT]n	14	0	0.0
