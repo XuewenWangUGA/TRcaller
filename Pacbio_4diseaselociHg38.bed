@@ -1,5 +1,5 @@
-Chrom	ChromStart	ChromEnd	Name	Left_offset	Right_offset	Basic_motif_period	Length_in_reference	Motif	Ref_allele	Inner_offset	Min_stutter_threshold
-chr4	3074877	3074967	HTT	3	3	3	90	[CAG]n	30	0	0.1
-chr9	27573523	27573547	C9orf72	C9orf72	3	3	6	24	[GGGGCC]n	4	0	0.1
-chrX	147912051	147912111	FMR1	FMR1	3	3	3	60	[CGG]n	20	0	0.1
-chr22	45795355	45795425	ATXN10	ATXN10	3	3	5	70	[ATTGT]n	14	0	0.1
+Chrom	ChromStart	ChromEnd	Name	Basic_motif_period	Motif	Ref_hap_length	Ref_allele	Stutter_ratio_threshold	Ploidy	Inner_offset
+chr4	3076604	3076694	HTT	3	[CAG]n	90	30	0	2	0
+chr9	27573521	27573545	C9orf72	6	[GGGGCC]n	24	4	0	2	0
+chrX	146993569	146993629	FMR1	3	[CGG]n	60	20	0	2	0
+chr22	46191235	46191305	ATXN10	5	[ATTGT]n	70	14	0	2	0
