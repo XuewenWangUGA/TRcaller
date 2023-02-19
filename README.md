@@ -1,6 +1,6 @@
 # TRcaller_paper
 The scripts and setting files for TRcaller paper
-## The fastest and most accurate tandem repeat genotyping tool by far for both short and long Next Generation Sequence reads. 
+## The fastest and most accurate tandem repeat genotyping tool by far for both short and long Next Generation Sequencing reads from Illumina, PacBio and Nanopore.
 
 ### <B> Citation:</B>
 
