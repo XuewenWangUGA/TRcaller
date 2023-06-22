@@ -21,7 +21,8 @@ Calling tandem repeat (TR) variants from DNA sequences is of both theoretical an
 
 Availability: TRcaller is available at www.trcaller.com/index.aspx.
 
-More details on https://github.com/Ge-Lab/TRcaller 
+More detailed information is on https://github.com/Ge-Lab/TRcaller  
+
 
 ### <B> Citation:</B>
 
