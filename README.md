@@ -28,3 +28,6 @@ More detailed information is on https://github.com/Ge-Lab/TRcaller
 
 Xuewen Wang, Meng Huang,Bruce Budowle, Jianye Ge, 2023, Precise and ultrafast tandem repeat variant detection in massively parallel sequencing reads, BioRxiv
 doi: https://doi.org/10.1101/2023.02.15.528687
+
+X Wang, H Meng, B Budowle, J Ge. 2023, TRcaller: a novel tool for precise and ultrafast tandem repeat variant genotyping in massively parallel sequencing reads
+Frontiers in genetics 14 (2023), doi: 10.3389/fgene.2023.1227176
