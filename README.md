@@ -2,6 +2,8 @@
 The scripts and setting files for TRcaller paper
 ## The fastest and most accurate tandem repeat genotyping tool by far for both short and long Next Generation Sequencing reads from Illumina, PacBio and Nanopore.
 
+TRcaller will generated the identical results for 20 core CODIS STRs independent of which forensic sequencing kits are used. 
+
 
 # TRcaller online now
 
