@@ -25,6 +25,8 @@ Availability: TRcaller is available at www.trcaller.com/index.aspx.
 
 More detailed information is on https://github.com/Ge-Lab/TRcaller  
 
+Manual: Manual_TRcaller_aug28_2023.pdf
+
 
 ### <B> Citation:</B>
 
