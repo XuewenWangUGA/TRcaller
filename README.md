@@ -29,7 +29,7 @@ Manual: Manual_TRcaller_aug28_2023.pdf
 
 <br/>
 
-![STRD8](D8_colorAllele3.png)  
+![STRD8](D8_colorAllele.png)  
 
 Fig 1. D8S1179 colorful STR Alleles
 <br/>
