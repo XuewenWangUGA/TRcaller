@@ -1,0 +1,5 @@
+To claim TRCaller can also detect alleles of the disease-associated long tandem repeat loci (TRs), 
+we need to test TRCaller in disease loci with the Pacbio long read data :
+
+data link: 
+(https://downloads.pacbcloud.com/public/dataset/RepeatExpansionDisorders_NoAmp/).

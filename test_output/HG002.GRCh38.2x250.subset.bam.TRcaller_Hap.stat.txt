@@ -1,0 +1,25 @@
+Summary of alleles and supported reads at each marker passed all thresholds
+The first line of the summary
+#Marker	Number_of_alleles	Total_count_of_reads
+D1S1656	2	51
+FGA	2	41
+D7S820	2	52
+vWA	2	53
+TPOX	1	61
+D19S433	2	33
+D5S818	2	62
+D10S1248	2	54
+D22S1045	1	53
+D2S1338	2	34
+D12S391	2	39
+D21S11	2	32
+TH01	2	49
+D18S51	2	51
+D16S539	1	70
+D13S317	2	52
+D2S441	2	51
+CSF1PO	2	52
+D3S1358	2	67
+D8S1179	2	54
+#Total number of alleles	37
+#Total number of markers	20

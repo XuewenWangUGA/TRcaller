@@ -1,0 +1,6 @@
+Chrom	ChromStart	ChromEnd	Name	Basic_motif_period	Motif	Ref_hap_length	Ref_allele	Stutter_ratio_threshold	Ploidy	Inner_offset
+4	3076604	3076694	HTT	3	[CAG]n	90	30	0	2	0
+9	27573521	27573545	C9orf72	6	[GGGGCC]n	24	4	0	2	0
+X	146993569	146993629	FMR1	3	[CGG]n	60	20	0	2	0
+22	46191235	46191305	ATXN10	5	[ATTGT]n	70	14	0	2	0
+

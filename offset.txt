@@ -1,0 +1,5 @@
+Name	Left_offset	Right_offset
+D5S818	5	3
+vWA	3	4
+D12S391	6	4
+DM2:CNBP	8	3

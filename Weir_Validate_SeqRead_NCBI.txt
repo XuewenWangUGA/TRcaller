@@ -1,2 +1,0 @@
-NGS reads in fastq or fasta for Weir validated samples
-The data is now available for download at https://www.ncbi.nlm.nih.gov/sra/PRJNA795193
