@@ -1,4 +1,20 @@
-# TRcaller_paper
+# TRcaller 2.0
+
+# Quick start
+
+run with the test data set coming with TRcaller. Type the following command beblow in your command terminal:
+
+`java -jar TRcallerv2.0.jar -b ForensicCODIS_v1.1.bed -i HG002.GRCh38.2x250.subset.bam`
+
+The following data will be generated.
+    Result files:
+    Output raw haplotype: HG002.GRCh38.2x250.subset.bam.TRcaller_Hap.raw.txt
+    Output report: HG002.GRCh38.2x250.subset.bam.TRcaller_Hap.rept.txt
+    Output statistical summary: HG002.GRCh38.2x250.subset.bam.TRcaller_Hap.stat.txt
+    All in one Excel file: HG002.GRCh38.2x250.subset.bam.TRcaller.xlsx
+
+
+
 The scripts and setting files for TRcaller paper
 ## The fastest and most accurate tandem repeat genotyping tool by far for both short and long Next Generation Sequencing reads from Illumina, PacBio and Nanopore.
 
