@@ -11,7 +11,7 @@ The software can be downloaded for a direct use. No additional compiling and ins
 
 `git clone https://github.com/XuewenWangUGA/TRcaller`
 
-or download the zip compressed files and then unzip to VarSeqStitcher
+or download the zip compressed files and then unzip to TRcaller
 
 Update Java run environment if necessary. The software will use the Java runtime environment (SE) V17. 
 
