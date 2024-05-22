@@ -26,7 +26,7 @@ the dwonloaded java binary is in c:/java21/bin; then type the command to run TRc
 
 # Quick start
 
-After downloading the tool. Run with the test data set coming with TRcaller. Type the following command beblow in your command terminal: The v2.0 after TRcaller will be version number, TRcallerv2.0, you can remove the version number as needed.
+After downloading the tool. Run with the test data set coming with TRcaller. Type the following command beblow in your command terminal: The v2.0 after TRcaller will be version number, TRcallerv2.0, you can remove the version number as needed. Just two files are required, the bed file with position of TR in a reference genome and the read alignment file.
 
 `java -jar TRcaller.jar -b ForensicCODIS_v1.1.bed -i HG002.GRCh38.2x250.subset.bam`
 
