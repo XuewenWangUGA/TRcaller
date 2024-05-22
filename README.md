@@ -7,6 +7,7 @@ run with the test data set coming with TRcaller. Type the following command bebl
 `java -jar TRcallerv2.0.jar -b ForensicCODIS_v1.1.bed -i HG002.GRCh38.2x250.subset.bam`
 
 The following data will be generated.
+
     Result files:
     Output raw haplotype: HG002.GRCh38.2x250.subset.bam.TRcaller_Hap.raw.txt
     Output report: HG002.GRCh38.2x250.subset.bam.TRcaller_Hap.rept.txt
