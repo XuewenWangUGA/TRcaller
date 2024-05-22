@@ -139,7 +139,7 @@ Manual: Manual_TRcaller_aug28_2023.pdf
 <br/>
 
 
-# Colorful visliaztion of Tr alleles
+# Colorful visliaztion of TR alleles
 
 ![STRD8](D8_colorAllele.PNG)  Fig 1. D8S1179 colorful STR Alleles
 <br/>
