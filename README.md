@@ -13,6 +13,7 @@
 
 ## Updates
 
+Nweest version : v2.0
 TRcaller 2.0 has been updated to the new version 2.0 for a better performance, higher accuracy, and easy usage. 
 
 
