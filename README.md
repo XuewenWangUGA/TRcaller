@@ -20,7 +20,7 @@ The following data will be generated.
 
 # Scripts for the paper
 
-The scripts and setting files for TRcaller paper are in the folder: TRcaller_paper_files, scripts
+The scripts and setting files for TRcaller paper are in the folder: TRcaller_paper_files, scripts for TRcaller versions between 2.0
 
 TRcaller will generated the identical results for 20 core CODIS STRs independent of which forensic sequencing kits are used. 
 
