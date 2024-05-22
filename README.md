@@ -96,7 +96,7 @@ The scripts and setting files for TRcaller paper  (https://www.frontiersin.org/j
 TRcaller will generated the identical results for 20 core CODIS STRs independent of which forensic sequencing kits are used. 
 
 
-# TRcaller online now
+# TRcaller online version
 
 The best tandem repeat (TR) genotyping software  
 
