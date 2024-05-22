@@ -1,8 +1,20 @@
 # TRcaller 2.0
 
+# Features
+
+* The best tandem repeat (TR) genotyping software;  
+
+* The highest accuracy (99%) and fastest speed in seconds;
+
+* For any short and long Next Generation Sequencing reads ;
+
+* Tested for forensic core 20 forensic core STRs, 38 XY STRs and 61 known disease-causing TRs in human.
+
+
 ## Updates
 
 TRcaller 2.0 has been updated to the new version 2.0 for a better performance, higher accuracy, and easy usage. 
+
 
 ## The fastest and most accurate tandem repeat genotyping tool by far for both short and long Next Generation Sequencing reads from Illumina, PacBio and Nanopore.
 
@@ -121,14 +133,6 @@ TRcaller will generated the identical results for 20 core CODIS STRs independent
 
 
 # TRcaller online version
-
-The best tandem repeat (TR) genotyping software  
-
-the highest accuracy (99%) and fastest speed in seconds
-
-For any short and long Next Generation Sequencing reads 
-
-Tested for forensic core 20 forensic core STRs, 38 XY STRs and 61 known disease-causing TRs in human
 
 The free testing account is opened at www.trcaller.com/index.aspx
 
