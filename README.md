@@ -6,6 +6,24 @@ TRcaller 2.0 has been updated to the new version 2.0 for a better performance, h
 
 ## The fastest and most accurate tandem repeat genotyping tool by far for both short and long Next Generation Sequencing reads from Illumina, PacBio and Nanopore.
 
+# Install TRcaller
+The software can be downloaded for a direct use. No additional compiling and installation. Get it from Github:
+
+git clone https://github.com/XuewenWangUGA/TRcaller
+
+or download the zip compressed files and then unzip to VarSeqStitcher
+
+Update Java run environment if necessary
+The software will use the Java runtime environment (SE) V17. 
+
+If your computer has an old version of Java runtime, please install the newest Java or Java SE 17 or higher from https://www.oracle.com/java/technologies/downloads/. Either Java or Java SE should work. In this case, you should put path before java. e.g.
+the dwonloaded java binary is in c:/java21/bin; then type the command to run TRcaller as the followings:
+
+`javaPath=c:/java21/bin`
+`$javaPath/java -jar TRcallerv2.0.jar `
+
+
+
 # Quick start
 
 run with the test data set coming with TRcaller. Type the following command beblow in your command terminal: The v2.0 after TRcaller will be version number, you can change the version number as needed.
