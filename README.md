@@ -26,9 +26,15 @@ the dwonloaded java binary is in c:/java21/bin; then type the command to run TRc
 
 # Quick start
 
-After downloading the tool. Run with the test data set coming with TRcaller. Type the following command beblow in your command terminal: The v2.0 after TRcaller will be version number, TRcallerv2.0, you can remove the version number as needed. Just two files are required, the bed file with position of TR in a reference genome and the read alignment file.
+After downloading the tool. Run with the test data set coming with TRcaller. Type the following command beblow in your command terminal: The v2.0 after TRcaller will be version number, TRcallerv2.0, you can remove the version number as needed. Just two files are required, the bed file with position of TR in a reference genome and the read alignment file. If the user will use the default bed file "ForensicCODIS_v1.1.bed", the only mandatory file will be the alignment file.
+
+`java -jar TRcaller.jar -i HG002.GRCh38.2x250.subset.bam`
 
 `java -jar TRcaller.jar -b ForensicCODIS_v1.1.bed -i HG002.GRCh38.2x250.subset.bam`
+
+`java -Xmx2G -jar TRcaller.jar -b ForensicCODIS_v1.1.bed -i HG002.GRCh38.2x250.subset.bam`
+
+The memery option is optional. For a very large file, the user can increase the memory, e.g. -Xmx10G
 
 The following data will be generated. The test output files from Human sample HG002 are available on Github.
 
