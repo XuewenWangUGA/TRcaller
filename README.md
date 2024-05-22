@@ -38,7 +38,7 @@ The following data will be generated. The test output files from Human sample HG
     Output statistical summary: HG002.GRCh38.2x250.subset.bam.TRcaller_Hap.stat.txt
     All in one Excel file: HG002.GRCh38.2x250.subset.bam.TRcaller.xlsx
 
-# Understand the results data format
+# Understand the result' data format
  The ".Hap.raw.txt" file has all TR allele candidates in the input read alignment file;  
 
  The ".Hap.rept.txt"  and Microsoft Excel format ".xlsx" file has the same content of TR alleles after filtering noisy canidatates; Data in Tab separated format looks like
