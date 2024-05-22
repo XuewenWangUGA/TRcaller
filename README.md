@@ -2,7 +2,7 @@
 
 ## Updates
 
-TRcaller 2.0 has been updated to version 2.0 for better performance, higher accuracy, and easy usage. 
+TRcaller 2.0 has been updated to the new version 2.0 for a better performance, higher accuracy, and easy usage. 
 
 ## The fastest and most accurate tandem repeat genotyping tool by far for both short and long Next Generation Sequencing reads from Illumina, PacBio and Nanopore.
 
@@ -20,7 +20,7 @@ The following data will be generated. The test output files from Human sample HG
     Output statistical summary: HG002.GRCh38.2x250.subset.bam.TRcaller_Hap.stat.txt
     All in one Excel file: HG002.GRCh38.2x250.subset.bam.TRcaller.xlsx
 
-# data format
+# Data format
  The ".Hap.raw.txt" file has all TR allele candidates in the input read alignment file;  
 
  The ".Hap.rept.txt"  and ".xlsx" file has the TR alleles after filtering noisy canidatates; Data in Tab separated format looks like
@@ -91,7 +91,7 @@ For help and more advance options, type the following command below:
 
 # Scripts for the paper
 
-The scripts and setting files for TRcaller paper are in the folder: TRcaller_paper_files, scripts for TRcaller versions between 2.0
+The scripts and setting files for TRcaller paper  (https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2023.1227176/full) are in the folder: TRcaller_paper_files, scripts for TRcaller versions between 2.0
 
 TRcaller will generated the identical results for 20 core CODIS STRs independent of which forensic sequencing kits are used. 
 
