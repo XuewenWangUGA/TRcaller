@@ -20,15 +20,15 @@ the dwonloaded java binary is in c:/java21/bin; then type the command to run TRc
 
 `javaPath=c:/java21/bin`
 
-`$javaPath/java -jar TRcallerv2.0.jar `
+`$javaPath/java -jar TRcaller.jar `
 
 
 
 # Quick start
 
-run with the test data set coming with TRcaller. Type the following command beblow in your command terminal: The v2.0 after TRcaller will be version number, you can change the version number as needed.
+After downloading the tool. Run with the test data set coming with TRcaller. Type the following command beblow in your command terminal: The v2.0 after TRcaller will be version number, TRcallerv2.0, you can remove the version number as needed.
 
-`java -jar TRcallerv2.0.jar -b ForensicCODIS_v1.1.bed -i HG002.GRCh38.2x250.subset.bam`
+`java -jar TRcaller.jar -b ForensicCODIS_v1.1.bed -i HG002.GRCh38.2x250.subset.bam`
 
 The following data will be generated. The test output files from Human sample HG002 are available on Github.
 
