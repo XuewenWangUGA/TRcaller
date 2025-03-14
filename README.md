@@ -8,19 +8,19 @@
 
 * For any short and long Next Generation Sequencing reads ;
 
-* Tested for forensic core 20 forensic core STRs, 38 XY STRs and 61 known disease-causing TRs in human.
+* Tested for forensic core 20 forensic core STRs, 38 XY STRs, and 61 known disease-causing TRs in humans.
 
 
 ## Updates
 
-Nweest version : v2.0
-TRcaller 2.0 has been updated to the new version 2.0 for a better performance, higher accuracy, and easy usage. 
+Newest version: v2.0
+TRcaller 2.0 has been updated to the new version 2.0 for better performance, higher accuracy, and easy usage. 
 
 
 ## The fastest and most accurate tandem repeat genotyping tool by far for both short and long Next Generation Sequencing reads from Illumina, PacBio and Nanopore.
 
 # Install TRcaller
-The software can be downloaded for a direct use. No additional compiling and installation. Get it from Github:
+The software can be downloaded for direct use. No additional compiling and installation. Get it from Github:
 
 `git clone https://github.com/XuewenWangUGA/TRcaller`
 
@@ -29,7 +29,7 @@ or download the zip compressed files and then unzip to TRcaller
 Update Java run environment if necessary. The software will use the Java runtime environment (SE) V17. 
 
 If your computer has an old version of Java runtime, please install the newest Java or Java SE 17 or higher from https://www.oracle.com/java/technologies/downloads/. Either Java or Java SE should work. In this case, you should put path before java. e.g.
-the dwonloaded java binary is in c:/java21/bin; then type the command to run TRcaller as the followings:
+the dwonloaded java binary is in c:/java21/bin; then type the command to run TRcaller as follows:
 
 `javaPath=c:/java21/bin`
 
